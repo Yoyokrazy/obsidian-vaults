@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "a0e25d2de0949246",
+    "type": "split",
+    "children": [
+      {
+        "id": "43e5d4be0312bbbd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85c02084bb7b0323",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily notes/2023-04-07-Fr.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "ff58458c699ebbb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e18ae9cdf231dbb",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "planning.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "30faf65d4dd30658",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "to-do.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d124ce3b6ad3eb87",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8cf2835351f759d",
+        "type": "tabs",
+        "dimension": 78.09419496166484,
+        "children": [
+          {
+            "id": "e77298d4fe72c907",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ccf62094f8485625",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "87d85b3a42867462",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "526a4bf38822125c",
+        "type": "tabs",
+        "dimension": 21.905805038335156,
+        "children": [
+          {
+            "id": "0eafe2cd648f40e5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 314.50152587890625
+  },
+  "right": {
+    "id": "5bcac0022d220f3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "875d0bc3c3e37169",
+        "type": "tabs",
+        "dimension": 51.100628930817614,
+        "children": [
+          {
+            "id": "0fbd9bcd8fd1d3a5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily notes/2023-04-07-Fr.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f340aa38965f635c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "0c23173b03944e35",
+        "type": "tabs",
+        "dimension": 15.723270440251572,
+        "children": [
+          {
+            "id": "92e3a56bd0243ea2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily notes/2023-04-07-Fr.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4aeed4afe34af3ee",
+        "type": "tabs",
+        "dimension": 33.17610062893082,
+        "children": [
+          {
+            "id": "946efe8d096bb20a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily notes/2023-04-07-Fr.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 309.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "85c02084bb7b0323",
+  "lastOpenFiles": [
+    "planning.md",
+    "to-do.md",
+    "Daily notes/2023-04-07-Fr.md",
+    "Templates/Daily_Note_0.md",
+    "Templates/Daily_Note_1.md",
+    "Templates/Daily-Note-Template.md",
+    "Daily notes/2023-04-05-We.md",
+    "Dev Stuff/Jupyter Codebase/Kernel restart + Run work.md",
+    "Dev Stuff/Jupyter Codebase/jupyter resources.md",
+    "Misc/Obsidian Shortcuts.md",
+    "Daily notes/2023-03-28-Tu.md",
+    "Misc/to-do (raw).md",
+    "Misc",
+    "Daily notes/2023-04-04-Tu.md",
+    "Dev Stuff/Core Codebase/core resources.md",
+    "Dev Stuff/Core Codebase/notebookAttachmentCleaner.md",
+    "Misc/change terminal command names.md",
+    "Misc/nvm-windows.md",
+    "04/04/2023.md",
+    "04/04",
+    "04",
+    "Dev Stuff/Core Codebase/notebookWillSave API.md",
+    "Daily notes/2023-04-03-Mo.md",
+    "Dev Stuff/git flows.md",
+    "Dev Stuff/notebook.codeActionsOnSave.md",
+    "Daily notes/2023-03-27-Mo.md",
+    "questions.md",
+    "Misc/nbdev.md",
+    "idk.md",
+    "Templates",
+    "Daily notes/2023-03-28",
+    "Dev Stuff",
+    "Daily notes",
+    "Admin",
+    "Dev Stuff/Jupyter Codebase",
+    "Dev Stuff/Core Codebase"
+  ]
+}
