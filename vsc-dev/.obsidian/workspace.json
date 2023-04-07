@@ -25,11 +25,10 @@
             "id": "a28be46039554161",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Daily notes/2023-04-07-Fr.md",
-                "mode": "source",
-                "source": false
+                "file": "vsc-dev/.obsidian/workspace.json",
+                "staged": true
               }
             }
           }
@@ -152,7 +151,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +186,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,9 +203,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "planning.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -227,7 +222,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e18ae9cdf231dbb",
+  "active": "a28be46039554161",
   "lastOpenFiles": [
     "Daily notes/2023-04-07-Fr.md",
     "planning.md",
