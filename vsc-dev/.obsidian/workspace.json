@@ -28,7 +28,7 @@
               "type": "diff-view",
               "state": {
                 "file": "vsc-dev/.obsidian/workspace.json",
-                "staged": true
+                "staged": false
               }
             }
           }
@@ -114,8 +114,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "526a4bf38822125c",
@@ -224,8 +223,8 @@
   },
   "active": "a28be46039554161",
   "lastOpenFiles": [
-    "Daily notes/2023-04-07-Fr.md",
     "planning.md",
+    "Daily notes/2023-04-07-Fr.md",
     "to-do.md",
     "Templates/Daily_Note_0.md",
     "Templates/Daily_Note_1.md",
