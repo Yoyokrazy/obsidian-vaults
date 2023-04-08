@@ -1,0 +1,13 @@
+{
+  "showLineNumber": true,
+  "spellcheck": true,
+  "tabSize": 4,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "root",
+  "newFileFolderPath": "Admin/Daily notes",
+  "showUnsupportedFiles": true,
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "showFrontmatter": true,
+  "promptDelete": false
+}

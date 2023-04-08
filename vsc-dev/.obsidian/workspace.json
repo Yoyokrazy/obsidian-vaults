@@ -1,89 +1,39 @@
 {
   "main": {
-    "id": "a0e25d2de0949246",
+    "id": "0bcf7469bdea79a1",
     "type": "split",
     "children": [
       {
-        "id": "43e5d4be0312bbbd",
+        "id": "c932d4e1ffac382c",
         "type": "tabs",
         "children": [
           {
-            "id": "85c02084bb7b0323",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily notes/2023-04-07-Fr.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "4778846a1062cee8",
+            "id": "32bcfe362cc1ce5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev Stuff/Jupyter Codebase/Kernel restart + Run work.md",
+                "file": "Dev Stuff/Core Codebase/notebookWillSave API.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ]
-      },
-      {
-        "id": "ff58458c699ebbb0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2e18ae9cdf231dbb",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "planning.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "30faf65d4dd30658",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "to-do.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d124ce3b6ad3eb87",
+    "id": "0b5240ff4d94fdb3",
     "type": "split",
     "children": [
       {
-        "id": "d8cf2835351f759d",
+        "id": "424872b956dc8be4",
         "type": "tabs",
-        "dimension": 78.09419496166484,
         "children": [
           {
-            "id": "e77298d4fe72c907",
+            "id": "5beaa64dd4326a0d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -93,15 +43,7 @@
             }
           },
           {
-            "id": "ccf62094f8485625",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "87d85b3a42867462",
+            "id": "7adafa827c68642b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -114,16 +56,9 @@
                 "sortOrder": "alphabetical"
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "526a4bf38822125c",
-        "type": "tabs",
-        "dimension": 21.905805038335156,
-        "children": [
+          },
           {
-            "id": "0eafe2cd648f40e5",
+            "id": "695c2bf3f61f208e",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -134,24 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.50152587890625
+    "width": 300
   },
   "right": {
-    "id": "5bcac0022d220f3c",
+    "id": "ca031b248ea24205",
     "type": "split",
     "children": [
       {
-        "id": "875d0bc3c3e37169",
+        "id": "c7c3af191fed3f17",
         "type": "tabs",
-        "dimension": 51.100628930817614,
         "children": [
           {
-            "id": "0fbd9bcd8fd1d3a5",
+            "id": "3951a2eead89c5f3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "to-do.md",
+                "file": "Dev Stuff/Core Codebase/notebookWillSave API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +97,19 @@
             }
           },
           {
-            "id": "f340aa38965f635c",
+            "id": "18e4dff1a3e6a483",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dev Stuff/Core Codebase/notebookWillSave API.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "384a9bc9a920614c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -172,41 +118,14 @@
                 "useHierarchy": true
               }
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "0c23173b03944e35",
-        "type": "tabs",
-        "dimension": 15.723270440251572,
-        "children": [
+          },
           {
-            "id": "92e3a56bd0243ea2",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "to-do.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "4aeed4afe34af3ee",
-        "type": "tabs",
-        "dimension": 33.17610062893082,
-        "children": [
-          {
-            "id": "946efe8d096bb20a",
+            "id": "d89e93b7eee9e2df",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "to-do.md"
+                "file": "Dev Stuff/Core Codebase/notebookWillSave API.md"
               }
             }
           }
@@ -214,55 +133,30 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "30faf65d4dd30658",
+  "active": "32bcfe362cc1ce5f",
   "lastOpenFiles": [
-    "Daily notes/2023-04-07-Fr.md",
-    "Dev Stuff/Jupyter Codebase/Kernel restart + Run work.md",
-    "to-do.md",
-    "Untitled.canvas",
-    "planning.md",
-    "Templates/Daily_Note_0.md",
-    "Templates/Daily_Note_1.md",
-    "Templates/Daily-Note-Template.md",
-    "Daily notes/2023-04-05-We.md",
-    "Dev Stuff/Jupyter Codebase/jupyter resources.md",
-    "Misc/Obsidian Shortcuts.md",
-    "Daily notes/2023-03-28-Tu.md",
-    "Misc/to-do (raw).md",
-    "Misc",
-    "Daily notes/2023-04-04-Tu.md",
-    "Dev Stuff/Core Codebase/core resources.md",
     "Dev Stuff/Core Codebase/notebookAttachmentCleaner.md",
-    "Misc/change terminal command names.md",
-    "Misc/nvm-windows.md",
-    "04/04/2023.md",
-    "04/04",
-    "04",
-    "Dev Stuff/Core Codebase/notebookWillSave API.md",
+    "Dev Stuff/Core Codebase/core resources.md",
+    "Daily notes/2023-04-07-Fr.md",
+    "Daily notes/2023-04-05-We.md",
+    "Daily notes/2023-04-04-Tu.md",
     "Daily notes/2023-04-03-Mo.md",
-    "Dev Stuff/git flows.md",
-    "Dev Stuff/notebook.codeActionsOnSave.md",
-    "Daily notes/2023-03-27-Mo.md",
-    "questions.md",
-    "Misc/nbdev.md",
-    "Templates",
-    "Daily notes/2023-03-28",
-    "Dev Stuff",
-    "Daily notes",
-    "Admin",
-    "Dev Stuff/Jupyter Codebase",
-    "Dev Stuff/Core Codebase"
+    "Daily notes/2023-03-30-Th.md",
+    "Daily notes/2023-03-29-We.md",
+    "Daily notes/2023-03-28-Tu.md",
+    "Daily notes/2023-03-27-Mo.md"
   ]
 }
