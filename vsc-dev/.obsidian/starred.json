@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "planning",
+      "path": "planning.md"
+    },
+    {
+      "type": "file",
+      "title": "to-do",
+      "path": "to-do.md"
+    }
+  ]
+}
