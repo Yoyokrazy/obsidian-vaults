@@ -5,7 +5,7 @@
 	- `onWillSaveNotebookDocument` API finalization @rebornix
 	- Adoption ^^ in notebook `ipynb.attachmentCleaner` @Yoyokrazy
 	- Support for [[`notebook.codeActionsOnSave`]] @Yoyokrazy
-- Missing common kernel management commands (Restart + run all, Restart + run above) @Yoyokrazy [[Kernel restart + Run work]]
+- Missing common kernel management commands (Restart + run all, Restart + run above) @Yoyokrazy [[Kernel restart + Run commands]]
 - keyboard shortcuts like `ctrl+/` for notebook specific contexts, like commenting out multiple cells at a time
 - 
 

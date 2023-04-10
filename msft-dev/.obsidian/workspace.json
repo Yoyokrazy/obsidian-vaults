@@ -6,15 +6,16 @@
       {
         "id": "55269d1eaa7f2829",
         "type": "tabs",
+        "dimension": 47.76609724047306,
         "children": [
           {
-            "id": "4778846a1062cee8",
+            "id": "16394c8aac2f204f",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2023-04-07-Fr.md",
+                "file": "planning.md",
                 "mode": "source",
                 "source": false
               },
@@ -24,51 +25,25 @@
         ]
       },
       {
-        "id": "486985e36cc4c4b9",
-        "type": "split",
+        "id": "06d9cf52408e4fa5",
+        "type": "tabs",
+        "dimension": 52.23390275952694,
         "children": [
           {
-            "id": "06d9cf52408e4fa5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "98248d72a1ffde3f",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "to-do.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true
-                }
-              }
-            ]
-          },
-          {
-            "id": "43e5d4be0312bbbd",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "16394c8aac2f204f",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "planning.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true
-                }
-              }
-            ]
+            "id": "98248d72a1ffde3f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "to-do.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +90,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "526a4bf38822125c",
@@ -151,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2023-04-07-Fr.md",
+                "file": "to-do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2023-04-07-Fr.md",
+                "file": "to-do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/2023-04-07-Fr.md"
+                "file": "to-do.md"
               }
             }
           }
@@ -226,11 +202,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4778846a1062cee8",
+  "active": "ccf62094f8485625",
   "lastOpenFiles": [
+    "Dev Stuff/Jupyter Codebase/Kernel restart + Run commands.md",
+    "Daily notes/2023-04-10-Mo.md",
     "to-do.md",
     "planning.md",
+    "Daily notes/2023-04-04-Tu.md",
     "Daily notes/2023-04-07-Fr.md",
+    "Daily notes/2023-04-05-We.md",
     "Dev Stuff/git flows.md",
     "Dev Stuff/notebook.codeActionsOnSave.md",
     "vsc-dev/Daily notes/2023-03-27-Mo.md",
@@ -244,18 +224,14 @@
     "vsc-dev/Dev Stuff/Core Codebase/notebookWillSave API.md",
     "vsc-dev/Dev Stuff/Core Codebase/notebookAttachmentCleaner.md",
     "vsc-dev/Dev Stuff/Core Codebase/core resources.md",
-    "Dev Stuff/Jupyter Codebase/Kernel restart + Run work.md",
     "Untitled.canvas",
     "Templates/Daily_Note_0.md",
-    "Templates/Daily_Note_1.md",
+    "Templates/Daily_Note.md",
     "Templates/Daily-Note-Template.md",
-    "Daily notes/2023-04-05-We.md",
     "Dev Stuff/Jupyter Codebase/jupyter resources.md",
     "Misc/Obsidian Shortcuts.md",
     "Daily notes/2023-03-28-Tu.md",
-    "Misc/to-do (raw).md",
     "Misc",
-    "Daily notes/2023-04-04-Tu.md",
     "04/04",
     "04",
     "Templates",
