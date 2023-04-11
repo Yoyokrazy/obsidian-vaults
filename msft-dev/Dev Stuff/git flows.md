@@ -32,4 +32,7 @@ git push
 ### If you updated your `.gitignore`
 ```ts
 git rm --cached
+git add --all
+git commit -m 'blah'
+git push
 ```
