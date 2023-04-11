@@ -1,10 +1,4 @@
 
-### Misc.
-```tasks
-not done
-includes misc
-```
-
 ### Not Started
 ```tasks
 not done

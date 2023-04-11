@@ -6,6 +6,7 @@ not done
 sort by status.type
 tag includes kernel
 ```
+### Done
 ```tasks
 done
 tag includes kernel
@@ -57,4 +58,4 @@ tag includes kernel
 	- there are mappings in the without interface, and vice versa in the with interface
 - see todo's in above header for work to do.
 - [ ] todo #kernel refactor the `commandtypemappings` within `src/commands.ts` to just collapse into one interface
-- [ ] test!!!!!
+- 
