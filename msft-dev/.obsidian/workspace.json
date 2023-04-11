@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev Stuff/git flows.md",
+                "file": "Daily notes/2023-04-11-Tu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev Stuff/git flows.md",
+                "file": "Daily notes/2023-04-11-Tu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev Stuff/git flows.md"
+                "file": "Daily notes/2023-04-11-Tu.md"
               }
             }
           }
@@ -280,12 +280,12 @@
       }
     ]
   },
-  "active": "5bf71572325830ac",
+  "active": "d63b607153c9eb4d",
   "lastOpenFiles": [
+    "Dev Stuff/git flows.md",
     "to-do.md",
     "Daily notes/2023-04-11-Tu.md",
     "Dev Stuff/Jupyter Codebase/Kernel restart + Run commands.md",
-    "Dev Stuff/git flows.md",
     "planning.md",
     "Dev Stuff/Jupyter Codebase/jupyter resources.md",
     "Daily notes/2023-04-10-Mo.md",
