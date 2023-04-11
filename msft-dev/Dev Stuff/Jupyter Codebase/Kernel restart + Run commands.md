@@ -58,4 +58,5 @@ tag includes kernel
 	- there are mappings in the without interface, and vice versa in the with interface
 - see todo's in above header for work to do.
 - [ ] todo #kernel refactor the `commandtypemappings` within `src/commands.ts` to just collapse into one interface
-- 
+- [ ] todo #kernel make sure to clean up the enablement within `package.json` for the command
+- [ ] todo #kernel think about and explore contributions 

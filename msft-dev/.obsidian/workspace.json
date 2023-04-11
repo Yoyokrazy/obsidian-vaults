@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev Stuff/git flows.md",
+                "file": "Dev Stuff/Jupyter Codebase/Kernel restart + Run commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev Stuff/git flows.md",
+                "file": "Dev Stuff/Jupyter Codebase/Kernel restart + Run commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev Stuff/git flows.md"
+                "file": "Dev Stuff/Jupyter Codebase/Kernel restart + Run commands.md"
               }
             }
           }
@@ -267,27 +267,28 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
-        "x": 2634,
+        "x": 2546,
         "y": 0,
-        "width": 780,
+        "width": 868,
         "height": 1392,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "5bf71572325830ac",
+  "active": "f16857f6f49419eb",
   "lastOpenFiles": [
+    "Dev Stuff/Jupyter Codebase/jupyter resources.md",
+    "Dev Stuff/Jupyter Codebase/Kernel restart + Run commands.md",
     "Daily notes/2023-04-11-Tu.md",
     "Dev Stuff/git flows.md",
     "to-do.md",
-    "Dev Stuff/Jupyter Codebase/Kernel restart + Run commands.md",
     "planning.md",
-    "Dev Stuff/Jupyter Codebase/jupyter resources.md",
     "Daily notes/2023-04-10-Mo.md",
     "Daily notes/2023-04-04-Tu.md",
     "Daily notes/2023-04-07-Fr.md",
