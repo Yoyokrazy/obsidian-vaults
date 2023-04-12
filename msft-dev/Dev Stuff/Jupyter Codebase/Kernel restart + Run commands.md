@@ -60,3 +60,7 @@ tag includes kernel
 - [ ] todo #kernel refactor the `commandtypemappings` within `src/commands.ts` to just collapse into one interface
 - [ ] todo #kernel make sure to clean up the enablement within `package.json` for the command
 - [ ] todo #kernel think about and explore contributions 
+
+### [[2023-04-12-We]]
+- well... `Restart + Run All` seems to work
+- 
