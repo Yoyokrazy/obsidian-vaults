@@ -1,3 +1,6 @@
 {
-  "minimal-style@@code-normal@@dark": "#BAD761"
+  "minimal-style@@code-normal@@dark": "#BAD761",
+  "minimal-style@@link-external-color@@dark": "#6FBDAF",
+  "minimal-style@@link-external-color-hover@@dark": "#96FFEC",
+  "minimal-style@@link-color-hover@@dark": "#D8BDFF"
 }

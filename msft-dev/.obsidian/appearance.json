@@ -3,5 +3,8 @@
   "baseFontSize": 13,
   "interfaceFontFamily": "Inter",
   "cssTheme": "Minimal",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "translucency": false,
+  "nativeMenus": false,
+  "showViewHeader": true
 }
