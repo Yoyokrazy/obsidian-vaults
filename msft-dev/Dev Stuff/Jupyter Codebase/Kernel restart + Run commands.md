@@ -57,8 +57,8 @@ tag includes kernel
 - weeeeeird stuff with the `commands.ts` file. Not totally sure how with vs without type mappings works, as it seems like there's no sort of cohesion there. 
 	- there are mappings in the without interface, and vice versa in the with interface
 - see todo's in above header for work to do.
-- [ ] todo #kernel refactor the `commandtypemappings` within `src/commands.ts` to just collapse into one interface
-- [ ] todo #kernel make sure to clean up the enablement within `package.json` for the command
+- [x] todo #kernel refactor the `commandtypemappings` within `src/commands.ts` to just collapse into one interface ✅ 2023-04-12
+- [/] todo #kernel make sure to clean up the enablement within `package.json` for the command
 - [ ] todo #kernel think about and explore contributions 
 
 ### [[2023-04-12-We]]
