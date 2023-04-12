@@ -3,7 +3,7 @@
 ### To-Do List
 ```tasks
 not done
-sort by status.type
+sort by status.type reverse
 tag includes kernel
 ```
 ### Done
