@@ -103,8 +103,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "526a4bf38822125c",
@@ -140,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev Stuff/Jupyter Codebase/Kernel restart + Run commands.md",
+                "file": "Dev Stuff/git flows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev Stuff/Jupyter Codebase/Kernel restart + Run commands.md",
+                "file": "Dev Stuff/git flows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev Stuff/Jupyter Codebase/Kernel restart + Run commands.md"
+                "file": "Dev Stuff/git flows.md"
               }
             }
           }
@@ -234,7 +233,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Daily notes/2023-04-11-Tu.md",
+                    "file": "Daily notes/2023-04-12-We.md",
                     "mode": "source",
                     "source": false
                   },
@@ -258,17 +257,19 @@
               {
                 "id": "bfcd32887b02bbfc",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
                     "file": "Dev Stuff/Jupyter Codebase/jupyter resources.md",
                     "mode": "source",
                     "source": false
-                  }
+                  },
+                  "pinned": true
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
@@ -281,12 +282,13 @@
       }
     ]
   },
-  "active": "f16857f6f49419eb",
+  "active": "5bf71572325830ac",
   "lastOpenFiles": [
-    "Dev Stuff/Jupyter Codebase/jupyter resources.md",
-    "Dev Stuff/Jupyter Codebase/Kernel restart + Run commands.md",
     "Daily notes/2023-04-11-Tu.md",
+    "Dev Stuff/Jupyter Codebase/jupyter resources.md",
+    "Daily notes/2023-04-12-We.md",
     "Dev Stuff/git flows.md",
+    "Dev Stuff/Jupyter Codebase/Kernel restart + Run commands.md",
     "to-do.md",
     "planning.md",
     "Daily notes/2023-04-10-Mo.md",
@@ -309,7 +311,6 @@
     "Templates/Daily_Note_0.md",
     "Templates/Daily_Note.md",
     "Templates/Daily-Note-Template.md",
-    "Misc/Obsidian Shortcuts.md",
     "Misc",
     "04/04",
     "04",
