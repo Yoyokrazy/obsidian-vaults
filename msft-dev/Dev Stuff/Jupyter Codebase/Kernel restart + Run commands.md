@@ -64,5 +64,5 @@ tag includes kernel
 ### [[2023-04-12-We]]
 - well... `Restart + Run All` seems to work
 - put this PR up ==> [Add \`Restart Kernel and Run All Cells\` command by Yoyokrazy · Pull Request #13316 · microsoft/vscode-jupyter · GitHub](https://github.com/microsoft/vscode-jupyter/pull/13316)
-- [ ] todo #kernel set up Restart + Run to selected⏫ 
+- [ ] todo #kernel add  Restart + Run to selected cell ⏫ 
 - 
