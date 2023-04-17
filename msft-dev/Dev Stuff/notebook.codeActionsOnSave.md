@@ -9,4 +9,8 @@
 		- delete empty cells
 	- language server has things?
 	- linting?
-	-
+
+
+any command that can take care of notebook documents
+- we already have codeactions for cells (bc they are text documents)
+- 
