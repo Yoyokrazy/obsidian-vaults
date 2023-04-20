@@ -59,7 +59,7 @@ tag includes kernel
 - see todo's in above header for work to do.
 - [x] todo #kernel refactor the `commandtypemappings` within `src/commands.ts` to just collapse into one interface ✅ 2023-04-12
 - [x] todo #kernel make sure to clean up the enablement within `package.json` for the command ✅ 2023-04-12
-- [ ] todo #kernel think about and explore contributions + UI buttons
+- [x] todo #kernel think about and explore contributions + UI buttons ✅ 2023-04-20
 
 ### [[2023-04-12-We]]
 - well... `Restart + Run All` seems to work
@@ -68,5 +68,5 @@ tag includes kernel
 
 ### [[2023-04-17-Mo]]
 - gotta set up restart to selected
-- [ ] todo #kernel figure out the enablement to make sure that's what I intended
+- [x] todo #kernel figure out the enablement to make sure that's what I intended ✅ 2023-04-20
 - 
