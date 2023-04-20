@@ -15,6 +15,12 @@ any command that can take care of notebook documents
 - we already have codeactions for cells (bc they are text documents)
 
 save participants
-	- format on save -- runs in core
-	- onwillsavenotebook doc  -- runs against ext host
-	- codeactionsonsave
+- format on save -- runs in core
+- onwillsavenotebook doc  -- runs against ext host
+- codeactionsonsave
+
+setup notebook.codeactionsonsave via settings
+- run command
+- make sure workspace edits are applied
+
+
