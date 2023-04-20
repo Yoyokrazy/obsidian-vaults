@@ -31,4 +31,3 @@ npm -v
 	16. Check PR output to make sure tests don't fail.
 	17. Debug [CI test failures](https://github.com/microsoft/vscode-jupyter/wiki/Tests)
 
-- [ ] could be cool to make a command that runs whenever I switch folders?
